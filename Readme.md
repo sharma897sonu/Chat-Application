@@ -26,7 +26,7 @@ To run this application locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/ChaudharySurajSingh/Real-Time-Chat-App.git
+    git clone  https://github.com/sharma897sonu/Chat-Application.git
     cd Real-Time-Chat-App
     ```
 
@@ -78,11 +78,5 @@ To run this application locally, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
-
-## Contact
-
-For any questions or feedback, please contact:
-
-- Suraj Singh Chaudhary
 - https://github.com/ChaudharySurajSingh
 
