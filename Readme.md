@@ -75,8 +75,3 @@ To run this application locally, follow these steps:
 2. Register a new account or log in with an existing one.
 3. Start chatting with your friends in real-time!
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
-- https://github.com/ChaudharySurajSingh
-
